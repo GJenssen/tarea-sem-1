@@ -1,1 +1,1 @@
-Este texto es para la rama1 de GitHub.
+Este texto es para el main en GitHub que se hara merge en rama1.
